@@ -5,7 +5,8 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"deck": "reveal-md src/index.md"
+		"deck": "reveal-md src/index.md",
+		"watch": "reveal-md src/index.md --watch"
 	},
 	"keywords": [],
 	"author": "",
