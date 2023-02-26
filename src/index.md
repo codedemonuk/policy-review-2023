@@ -178,6 +178,70 @@ Work is currently underway to upgrade the remaining cameras across the borough.
 
 +++
 
+- Infrastructure and Security
+- Business Systems and Projects Team
+- Service Desk
+
+Note:
+
+### Infrastructure and Security
+
+- MFA for All staff - Extra level of security is required to ensure we are more secure against identity / access logon attacks, required as part of Cyber Security Insurance renewal
+- Firewalls upgrade – Our main security access into the infrastructure requires updating with the latest firewalls and updated security with resiliency built in case of a single unit failure
+- PSN Audit & remedial actions for 2023-24 – Annual Security Health check has been requested to ensure we are compliant to PSN standards.
+  This will mean HBC are to ensure ongoing updates of our security protocols and removing systems with weak security.
+  PSN may also provide additional guidance against threat landscape for us to consider in 2023.
+- Security & Azure Infrastructure training – to obtain the best out of moving to the MS Cloud and ensuring our IDS staff are kept up to date with MS Azure platform and infrastructure in the Cloud
+- Investigate and build Project for SSO – We will need to look at simplifying the many systems that we run with their individual security being harder to manage, with SSO we can make it easier and simpler to manage and aim for more security at the same time with a hardened singular password strategy
+- Disaster Recovery Plan update - Update DR plans with the change over to AZURE CLOUD platform.
+
+### Business Systems and Projects Team
+
+- FINANCE - The new Cloud Financials system is being implemented.
+  There will be a lot of work in data migration, configuration, interfaces and reporting.
+  The public-facing web payments system is being upgraded to a more modern, user-friendly interface called eStore2.
+- IDOX Uniform - The Uniform and TLC (land charges) systems, and associated sub-systems, are being moved to the Azure environment.
+  This will enable the latest versions of the software to be used, and provide a cloud-based environment instead of using on-premise hardware, giving improved resilience and ensuring future-proofing.
+- GIS - Work on spatial data includes facilitating of boundary reviews, and providing map-based applications for staff (e.g. Address Locator, Grounds Maintenance) and public (e.g. TPOs, Hertsmere Heritage, Major Planning Applications).
+  Mobile data collection system being developed for Parks, replacing paper-based systems.
+- EROS Elections – System has moved to a web front end, with ongoing updates and developments occurring with the run up to the elections and additional features that being added.
+  IDS Business Systems are keeping busy working with our Elections department to ensure we are ready for the election later in the year.
+- Recruitment x1 – to fulfil the needs of the team.
+  We had two attempts so far and hopefully we can recruit someone early in 2023.
+  We may need to look at the salary scales offered to recruit if this current approach fails.
+
+### Service Desk
+
+- Recruitment x 2 – we have 1 role to fulfil for the current support needs and an additional 12 month temp for upcoming office relocations
+- Building a Resilient Team in the face of Hybrid Working and potential Covid lockdowns – The team will need support to develop their skills around incoming new technologies for meeting areas and improving hybrid working
+- Team training plans – To aid development we will be working with team members to ensure they have time and material resource to develop knowledge and skills on the new Azure platform as well as other local technology
+- HBC Office relocations – There will be additional technology refresh to roll out for new office setups alongside relocation of users to newly refurbished areas
+- EFS Support - Setup a support desk outpost at EFS with IDS Support desk member on rota support
+
++++
+
+- Challenges for the year ahead
+- IDS Strategy and General projects
+
+Note:
+
+### Challenges for the year ahead
+
+- Management of Budgets – Budgets are tight and with the move to the Cloud we will need to look at ways to keep costs down
+- Closing off old systems and switching to new Infrastructure - Better Azure space management should provide some cost reduction once the old hardware is finally decommissioned.
+  Once we move across to the new Veeam backup environment we will be able to close off the old Acronis system, which should reduce some costs currently being incurred
+- Disaster Recovery planning and testing – Both the Azure and Backup projects being completed will allow us to review our DR strategy and build a test plan for cut-over in the case of emergency requiring data to be setup offsite
+
+### IDS Strategy and General projects
+
+- ICT Strategy 2023-2028 plan – An updated plan will be delivered in 2023 to incorporate current technology trends
+- Councillor tablets upgrades – Councillor devices are due for upgrade and HBC IDS team will aim for delivery post election 23
+- EFS Infrastructure Upgrade – Tender process is underway and in January 2023 we hope to assign this for upgraded network infrastructure core and edge services
+- EFS Outlook migration Office 365 – Recommendations to be provided for migrating EFS Email systems to the cloud once we have agreed on the infrastructure upgrade
+- EFS Updated SLA from HBC IDS Dept – An updated Service document will be provided covering IDS Technical Support services
+- EFS Voice upgrade – A new system is required to replace the aged old Avaya System
+- MITEL VOICE  - WEBChat for HBC : project to review how this can be helpful for HBC
+
 ---
 
 ## Human Resources
